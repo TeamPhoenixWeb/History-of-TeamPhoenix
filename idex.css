@@ -11,8 +11,13 @@
   .head {
     padding: 80px;
     text-align: center;
-    background: #1abc9c;
-    color: white;
+    background: white;
+    color: lightskyblue;
+  }
+  /* imager from titleimg which is above TeamPhoenix freestyle professinal skate team */
+  .head img {
+    width: 20%;
+    
   }
   
   /* Increase the font size of the h1 element */
